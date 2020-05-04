@@ -1,0 +1,19 @@
+body{
+	background-image: url(img/f.jpg);
+	background-size: cover;
+}
+h1{
+	text-decoration: underline;
+	color: khaki;
+	font-weight: bolder;
+	text-align: center;
+	font-size: 90px;
+	margin-top: 50px;
+}
+p{
+    font-size: 25px;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	color: lightyellow;
+}

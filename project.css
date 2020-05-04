@@ -1,12 +1,55 @@
 @charset "utf-8";
 
-body{
+/*header{
         	background-image: url(img/cube.jpg);
         	background-size: cover;
         
+	    }*/
+	    
+	    #test{
+	    	margin-left: 40%;
+	    	background-color: #f44336;
+	    }
+	    h1{
+	    	text-align: center;
+
+	    }
+	    
+	    .footer p {
+	    	text-align:center;
+	    	display:inline;
+	    	margin-left:25%;
+	    	margin-right:25%;
+	    }
+	    span {
+	    	text-align:left;
+	    }
+	    p.head{
+	    	margin-top: 7%;
+	    	font-size: 50px;
+	    	font-weight:italic;
+	    	text-align: left;
+	    	text-align: center;
+	    	text-decoration: none;
+	    }
+	    .footer{
+	    	position:relative;
+	    	left: 0;
+	    	bottom: 0;
+	    	width:100%;
+	    	background-color: red;
+	    	color:white;
+	    }
+	    
+	    .image{
+	    	margin-left:3px;
+	    	padding-bottom: 20px;
+	    	text-align: center;
 	    }
 
-nav{
+	    
+
+/*nav{
 	list-style-type: none;
 	box-sizing: border-box;
 	background-color: white;
@@ -25,7 +68,7 @@ nav{
 	margin:15px;
 	padding:13px;
 }*/
-ul{
+/*ul{
 	text-align: right;
 	position:sticky;
 }
@@ -57,3 +100,4 @@ li:active{
 	color:red;
 	font-size:70px;
 }
+*/

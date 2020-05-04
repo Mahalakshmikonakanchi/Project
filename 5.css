@@ -1,0 +1,29 @@
+body{
+	background-image: url(img/stawberry.gif);
+	background-size: cover;
+}
+#done{
+	text-decoration: none;
+	background-color: plum;
+	margin-left: 50%;
+	width: 10%;
+	height: 30%;
+	font-size: 20px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+p{
+	text-align: left;
+	margin-right: 10%;
+	text-decoration: none;
+    font-weight: bolder;
+    color: purple;
+    font-size: 25px;
+}
+#RecipeName, #Ingredients, #Procedure{
+	margin-left: auto;
+
+	height: 50%;
+}
